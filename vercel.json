@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "prisma generate && npm run build",
   "headers": [
     {
       "source": "/api/(.*)",
